@@ -2465,15 +2465,15 @@
 			(uuid "93baaf3f-1bbb-4fcd-a442-7fe68254b3f5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1478035_Horizontal.step"
+		(model "/Users/liam/umi/boards/open-hardware-esd-target/Models/60712002241507 (rev1).stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 7.6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
