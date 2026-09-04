@@ -747,7 +747,7 @@
 			(uuid "240c42f8-715b-4d5e-93e4-9b5d35971cac")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "R1")
 					(unit 1)
@@ -823,7 +823,7 @@
 			)
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "H3")
 					(unit 1)
@@ -902,7 +902,7 @@
 			(uuid "69ce6443-95bb-402a-813a-fc0f6b420715")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "TP1")
 					(unit 1)
@@ -978,7 +978,7 @@
 			)
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "H1")
 					(unit 1)
@@ -1082,7 +1082,7 @@
 			(uuid "5f9d22cc-1813-44c3-9e96-55e62a1f4d5e")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "R3")
 					(unit 1)
@@ -1158,7 +1158,7 @@
 			)
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "H4")
 					(unit 1)
@@ -1235,7 +1235,7 @@
 			(uuid "cf299cc4-06aa-4097-8bee-a4aeea4f6038")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "TP3")
 					(unit 1)
@@ -1310,7 +1310,7 @@
 			)
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "SYM1")
 					(unit 1)
@@ -1414,7 +1414,7 @@
 			(uuid "90b63709-eaef-42f9-b6e4-7234baf6bf54")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "R4")
 					(unit 1)
@@ -1490,7 +1490,7 @@
 			)
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "H2")
 					(unit 1)
@@ -1569,7 +1569,7 @@
 			(uuid "f445c222-7492-4dd7-9dcc-6bfed1d01752")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "TP4")
 					(unit 1)
@@ -1673,7 +1673,7 @@
 			(uuid "9dd25b03-17d5-4c44-b497-6de9b8e75cb5")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "R5")
 					(unit 1)
@@ -1686,7 +1686,7 @@
 		(at 167.64 181.61 0)
 		(unit 1)
 		(body_style 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
@@ -1747,19 +1747,8 @@
 				)
 			)
 		)
-		(property "Sim.Enable" "0"
-			(at 167.64 181.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "SYM2")
 					(unit 1)
@@ -1863,7 +1852,7 @@
 			(uuid "ec0342c0-b462-4daa-ae79-44483541869f")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "R2")
 					(unit 1)
@@ -1940,7 +1929,7 @@
 			(uuid "a3e3d73b-696b-4f87-b6eb-139e37523305")
 		)
 		(instances
-			(project "open-hardware-esd-target"
+			(project "voltage-measurement-fixture"
 				(path "/1a0669ff-2aeb-4912-a140-9f36ec24377c"
 					(reference "TP2")
 					(unit 1)
